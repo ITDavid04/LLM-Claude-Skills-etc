@@ -1,2 +1,2 @@
-# LLM-Claude-Skills
-Entwickelte Claude Skills Datenbank
+# LLM-Claude-Skills etc. 
+Entwickelte Claude Skills etc. Datenbank
