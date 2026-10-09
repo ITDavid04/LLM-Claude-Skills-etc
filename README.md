@@ -11,6 +11,11 @@ Eine kuratierte Sammlung eigener **Claude Skills** und **Gemini Gems** rund um d
 LLM-Claude-Skills-etc/
 ├── Claude_Skills/
 │   ├── IT_Bewerbungscoach_2026.md
+│   ├── Token_Sparmodus/
+│   │   ├── token-sparmodus.md
+│   │   ├── installieren.sh
+│   │   ├── Referenzen/
+│   │   └── Werkzeuge/projekt-karte.py
 │   └── Wiki_FIAE.md
 ├── Gemini_Gems/
 │   ├── EduScrum_Transformer.md
@@ -43,6 +48,7 @@ Skills liegen im `.md`-Format mit YAML-Frontmatter (`name` + `description`) vor 
 | Skill | Zweck | Trigger-Beispiele |
 |---|---|---|
 | **[`it-bewerbungscoach-2026`](./Claude_Skills/IT_Bewerbungscoach_2026.md)** | Bewerbungscoach für IT-Umschüler (FIAE/FISI) mit ATS-Optimierung, Recruiter-Logik und Positionierung als automatisierungs-/DevOps-affiner Anwendungsentwickler | Lebenslauf erstellen/überarbeiten, Anschreiben, GitHub/LinkedIn-Profiltexte |
+| **[`token-sparmodus`](./Claude_Skills/Token_Sparmodus/token-sparmodus.md)** | Workflow gegen hohe Tokenkosten: eine Sitzung pro Video/Aufgabe, gezieltes Lesen per Projekt-Karte, Kontaktbogen statt vieler Screenshots, Render-Disziplin und Übergabe-Notiz für die nächste Sitzung. Mit Hyperframes-Videoworkflow, `projekt-karte.py` und `installieren.sh` für Claude Code | „spar Tokens", „neue Sitzung", „Übergabe schreiben", neues Video in alter Sitzung |
 | **[`wiki-fiae`](./Claude_Skills/Wiki_FIAE.md)** | Erstellt und prüft Wiki-Artikel im FIAE/FISI-Prüfungsformat (Typ A: kompakter Prüfungs-Wiki / Typ B: mathematischer Deep Dive) inkl. ROT/GELB/GRÜN-IHK-Relevanz-Markierung | "Wiki-Artikel zu [Thema]", "Deep Dive mit ROT/GELB/GRÜN", "Prüf diesen Wiki-Eintrag" |
 
 ---
