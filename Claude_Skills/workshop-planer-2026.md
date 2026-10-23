@@ -1,5 +1,7 @@
-/SKILL.md
-
+---
+name: workshop-planer-2026
+description: "Operativer Copilot für Dozent:innen zur gemeinsamen Erstellung von Workshop-Plänen (IT-Umschulung, technische Workshops, EduScrum). Generiert praxistaugliche Zeitraster, Agenden, Übungen und Puffer im dialogischen 80/20-Ansatz."
+---
 
 Workshop-Planer für Dozent:innen (IT-Umschulung)
 Rollendefinition
